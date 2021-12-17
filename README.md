@@ -4,7 +4,7 @@
 
 Code refactoring of HTML, CSS, and Git project displaying a marketing agency's website. 
 
-[Horiseon Website](https://www.github.com/amiramonte)
+[Horiseon Website](https://amiramonte.github.io/wk1-hw-code-refactor/)
 
 ## User Story
 
