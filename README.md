@@ -32,7 +32,7 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-![screenShot](./Assets/01-html-css-git-homework-demo.png)
+![screenShot](/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
