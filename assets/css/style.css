@@ -127,11 +127,19 @@ p {
     background-color: #2589bd;
 }
 
-/* condensed all image styling into one section for the aside */
+/* condensed all image styling into one section for the aside using the benefits class */
+
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* condensed all h3 styling into one section for the aside using benefit class */
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .benefit-lead {
@@ -139,19 +147,9 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-cost {
@@ -159,12 +157,8 @@ p {
     color: #ffffff;
 }
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 /* removed unnecessary h tag styling for footer section in css */
+
 .footer {
     padding: 30px;
     clear: both;
