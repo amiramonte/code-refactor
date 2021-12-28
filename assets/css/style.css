@@ -127,19 +127,19 @@ p {
     background-color: #2589bd;
 }
 
+/* condensed all h3 styling into one section for the aside using benefit class */
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 /* condensed all image styling into one section for the aside using the benefits class */
 
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* condensed all h3 styling into one section for the aside using benefit class */
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-lead {
