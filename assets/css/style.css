@@ -127,6 +127,13 @@ p {
     background-color: #2589bd;
 }
 
+/* condensed all image styling into one section for the aside */
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -135,12 +142,6 @@ p {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .benefit-brand {
@@ -153,12 +154,6 @@ p {
     text-align: center;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -167,12 +162,6 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .footer {
