@@ -164,6 +164,7 @@ p {
     text-align: center;
 }
 
+/* removed unnecessary h tag styling for footer section in css */
 .footer {
     padding: 30px;
     clear: both;
