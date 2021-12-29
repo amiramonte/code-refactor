@@ -72,7 +72,9 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* condensed image styling for 2 of the images in to one section on the css */
+
+.search-engine-optimization img, .social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
@@ -100,12 +102,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-    float: left;
-    margin-right: 25px;
 }
 
 .benefits {
