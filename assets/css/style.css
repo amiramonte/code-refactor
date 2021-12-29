@@ -115,6 +115,13 @@ p {
     background-color: #2589bd;
 }
 
+/* condensed all styling for 3 sections in the aside */
+
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 /* condensed all h3 styling into one section for the aside using benefit class */
 
 .benefits h3 {
@@ -128,13 +135,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* condensed all styling for 3 sections in the aside */
-
-.benefit-lead, .benefit-brand, .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
 }
 
 /* removed unnecessary h tag styling for footer section in css */
