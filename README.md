@@ -1,14 +1,11 @@
 # HTML, CSS, and Git: Code Refactor
 
----
 
 ## Table of Contents 
 
 - [Description](#description)
 - [Functionality](#functionality)
 - [Deployed Application](#deployed-application)
-- [Technologies](#technologies)
-- [Installation](#installation)
 - [Credits](#credits)
 
 ---
@@ -30,7 +27,6 @@ Code refactoring of HTML and CSS on a marketing agency's website.
 [Horiseon Website](https://amiramonte.github.io/code-refactor/)
 
 ---
-
 
 ## Credits
 
